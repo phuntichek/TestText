@@ -1,0 +1,13 @@
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/bin/Debug/netcoreapp3.1/TextTest.deps.json
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/bin/Debug/netcoreapp3.1/TextTest.runtimeconfig.json
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/bin/Debug/netcoreapp3.1/TextTest.runtimeconfig.dev.json
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/bin/Debug/netcoreapp3.1/TextTest.dll
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/bin/Debug/netcoreapp3.1/TextTest.pdb
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.csproj.AssemblyReference.cache
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.AssemblyInfoInputs.cache
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.AssemblyInfo.cs
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.csproj.CoreCompileInputs.cache
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.dll
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.pdb
+/Users/phuntik/Desktop/Projects/TextTest/TextTest/obj/Debug/netcoreapp3.1/TextTest.genruntimeconfig.cache
